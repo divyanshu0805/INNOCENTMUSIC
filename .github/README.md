@@ -1,7 +1,7 @@
 
 
-[![GIF](https://github.com/SAIFDEAD/MUSIC1/blob/main/SAIFDEAD.gif)](https://github.com/SAIFDEAD)
-   [![𝐌𝐑.𝐒𝐀𝐈𝐅(https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD OP")](https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD")
+[![GIF](https://github.com/nakuldkdhacker0026/MUSIC1/blob/main/nakuldkdhacker0026.gif)](https://github.com/nakuldkdhacker0026)
+   [![𝐌𝐑.𝐒𝐀𝐈𝐅(https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD OP")](https://github-stats-alpha.vercel.app/api?username=nakuldkdhacker0026 "nakuldkdhacker0026")
 
 
 
