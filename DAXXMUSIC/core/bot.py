@@ -8,7 +8,7 @@ from ..logging import LOGGER
 
 class DAXX(Client):
     def __init__(self):
-        LOGGER(__name__).info(f"sᴛᴀʀᴛɪɴɢ ʜɪɴᴀᴛᴀ ᴍᴜsɪᴄ ʙᴏᴛ...")
+        LOGGER(__name__).info(f"sᴛᴀʀᴛɪɴɢ INNOCENT X MUSIC ʙᴏᴛ...")
         super().__init__(
             name="DAXXMUSIC",
             api_id=config.API_ID,
@@ -47,7 +47,7 @@ class DAXX(Client):
                 "ᴘʟᴇᴀsᴇ ᴘʀᴏᴍᴏᴛᴇ ʏᴏᴜʀ ʙᴏᴛ ᴀs an ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ʟᴏɢ ɢʀᴏᴜᴘ/ᴄʜᴀɴɴᴇʟ."
             )
             exit()
-        LOGGER(__name__).info(f"ʜɪɴᴀᴛᴀ ᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ᴀs {self.name}")
+        LOGGER(__name__).info(f"INNOCENT X ᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ᴀs {self.name}")
 
     async def stop(self):
         await super().stop()
