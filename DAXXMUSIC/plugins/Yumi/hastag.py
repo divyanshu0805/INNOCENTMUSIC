@@ -15,7 +15,7 @@ async def hastag(bot, message):
 
         content = BSP(res, 'html.parser').find("div", {"class":"copy-hashtags"}).string
     except IndexError:
-        return await message.reply_text("Example:\n\n/ʜᴀsᴛᴀɢ sᴀɪғ")
+        return await message.reply_text("Example:\n\n/ʜᴀsᴛᴀɢ INNOCENT")
         
     
     await message.reply_text(f"ʜᴇʀᴇ ɪs ʏᴏᴜʀ  ʜᴀsᴛᴀɢ :\n<pre>{content}</pre>", quote=True)
