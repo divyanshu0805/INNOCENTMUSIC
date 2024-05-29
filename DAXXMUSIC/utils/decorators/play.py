@@ -37,7 +37,7 @@ def PlayWrapper(command):
                     [
                         InlineKeyboardButton(
                             text="𝐇ᴏᴡ 𝐓ᴏ 𝐅ɪx ?",
-                            callback_data="SAIFHELPGC",
+                            callback_data="THE_FUCKER_BOTS_2926",
                         ),
                     ]
                 ]
