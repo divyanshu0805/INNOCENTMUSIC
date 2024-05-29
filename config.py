@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","SAIF_DICTATOR")
+OWNER_USERNAME = getenv("OWNER_USERNAME","its_innocent_boy_8202")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "HINATA_N_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "RUHI_X_MUSICBOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝐇ιиαтα 𝗫 𝐑σвσт")
+BOT_NAME = getenv("BOT_NAME" , "INNOCENT 𝗫 𝐑σвσт")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Naruto_for_Hinata")
+ASSUSERNAME = getenv("ASSUSERNAME" , "RUHI_X_ASSISTENT")
 # ---------------------------------------------------------
 
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SAIFDEAD/SAIFMUSIC",
+    "https://github.com/nakuldkdhacker0026/INNOCENTMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SAIFALLBOT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DEAD_GRPCHAT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/THE_FUCKING_BOT_2926")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/THE_FUCKER_BOTS_2926")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/1f8f69dbd6be383425929.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/20891672efabd974a1929.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/84628c1ceebc5c52a01cc.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/00de9d17b0f828e50a7a5.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/fa644d12edfa174efb6a9.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/18aad7ea35f99603b3cf3.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/b3fc7f08dfe25e5951f08.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/b3fc7f08dfe25e5951f08.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/358f10a958b40b8984d07.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/6d6b11300cfa55ca764c2.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/abe141eb82545f195c9b6.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/35d55e85606c45f9bb138.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/8584dc1c4ed3e5b94dd2c.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/311ce6b82b5f2fb678eb5.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/76e15f09492b116bad823.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/d52c48b6b12111d25a7a4.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6ce4a3837e01210b2955e.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/da522c26240a8e6855e23.jpg"
+STREAM_IMG_URL = "https://te.legra.ph/file/038954fd6961240321205.jpg"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/ac6645564893ce791c552.jpg"
+YOUTUBE_IMG_URL = "https://te.legra.ph/file/f6ca5b940cacff5dba316.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/da522c26240a8e6855e23.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/6ce4a3837e01210b2955e.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/76e15f09492b116bad823.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
