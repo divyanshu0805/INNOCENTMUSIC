@@ -27,7 +27,7 @@ GO TO [RELOAD.PY](https://github.com/nakuldkdhacker0026/DAXXMUSIC/blob/Master/DA
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ cyclic 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.cyclic.sh/new?template=https://github.com/nakuldkdhacker0026/INNOCENTMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20cyclic-red?style=for-the-badge&logo=cyclic" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://cyclic.sh/new?template=https://github.com/nakuldkdhacker0026/INNOCENTMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20cyclic-red?style=for-the-badge&logo=cyclic" width="520" height="138.45"/></a></p>
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakuldkdhacker0026&show_icons=true&locale=en&layout=compact" alt="nakuldkdhacker0026" /></p>
 
