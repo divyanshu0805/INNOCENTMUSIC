@@ -1,13 +1,13 @@
 
 
-[![GIF](https://github.com/INNOCENTBOY2926/MUSIC1/blob/main/INNOCENTBOY2926.gif)](https://github.com/nakuldkdhacker0026)
-   [![𝐌𝐑.𝐒𝐀𝐈𝐅(https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD OP")](https://github-stats-alpha.vercel.app/api?username=nakuldkdhacker0026 "nakuldkdhacker0026")
+[![GIF](https://github.com/INNOCENTBOY2926/MUSIC1/blob/main/INNOCENTBOY2926.gif)](https://github.com/INNOCENTBOY2926)
+   [![𝐌𝐑.𝐒𝐀𝐈𝐅(https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD OP")](https://github-stats-alpha.vercel.app/api?username=INNOCENTBOY2926 "INNOCENTBOY6")
 
 
 
 
 
-GO TO [RELOAD.PY](https://github.com/nakuldkdhacker0026/DAXXMUSIC/blob/Master/DAXXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+GO TO [RELOAD.PY](https://github.com/INNOCENTBOY2926/DAXXMUSIC/blob/Master/DAXXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
   <img src="https://te.legra.ph/file/d52c48b6b12111d25a7a4.jpg">
@@ -21,15 +21,15 @@ GO TO [RELOAD.PY](https://github.com/nakuldkdhacker0026/DAXXMUSIC/blob/Master/DA
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/nakuldkdhacker0026/INNOCENTMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/INNOCENTBOY2926/INNOCENTMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ render 」─
 </h3>
 
-<p align="center"><a href="https://deshboard.render.com/new?template=https://github.com/nakuldkdhacker0026/INNOCENTMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20render-red?style=for-the-badge&logo=render" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://deshboard.render.com/new?template=https://github.com/INNOCENTBOY2926/INNOCENTMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20render-red?style=for-the-badge&logo=render" width="520" height="138.45"/></a></p>
 
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakuldkdhacker0026&show_icons=true&locale=en&layout=compact" alt="nakuldkdhacker0026" /></p>
+<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=INNOCENTBOY2926&show_icons=true&locale=en&layout=compact" alt="INNOCENTBOY2926" /></p>
 
 
 ### Contact :
