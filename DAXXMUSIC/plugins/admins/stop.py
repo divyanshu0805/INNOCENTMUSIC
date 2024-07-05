@@ -1,3 +1,4 @@
+
 from pyrogram import filters
 from pyrogram.types import Message
 
@@ -10,7 +11,7 @@ from config import BANNED_USERS
 
 
 @app.on_message(
-    filters.command(["end", "stop", "dead", "cstop"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & filters.group & ~BANNED_USERS
+    filters.command(["end", "stop", "cstop"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & filters.group & ~BANNED_USERS
 )
 @AdminRightsCheck
 async def stop_music(cli, message: Message, _, chat_id):
